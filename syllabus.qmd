@@ -1,0 +1,58 @@
+---
+title: Syllabus
+format: 
+  html:
+    toc: true
+    toc-depth: 3
+---
+
+## Objectifs pédagogiques et professionnels
+
+#### [Master of Science - Manager Financier, Banque & Assurance](https://www.inseec.com/program/msc-manager-financier-banque-assurance/)
+
+**Analyse Financière & Diagnostic**
+
+> Utiliser les outils de collecte et d’analyse de l’information financière.
+> Porter un diagnostic sur la profitabilité, la rentabilité, la politique d’investissement et de financement de l’entreprise.  
+> Réaliser une analyse financière d’entreprises en normes françaises (liasse fiscale) ou internationales (IFRS et US GAAP) en fonction du point de vue choisi (investisseur ou créancier).
+
+#### [Master of Science Banque d’Affaires & Ingénierie Financière](https://www.inseec.com/program/msc-banque-daffaires-ingenierie-financiere/)
+
+**Diagnostic Stratégique et Décision**
+
+> Approfondir l’analyse financière par l’approche bancaire réseau.
+> Connaitre le patrimoine de l’entreprise (bilan) et son cycle d’exploitation.
+> Faire une lecture « commerciale » de la liasse fiscale et établir un plan de financement prévisionnel.
+
+## Connaissances et compétences RNCP visées
+
+- **2.6** : Appliquer les bases juridiques indispensables au bon fonctionnement d’une société et contrôler le respect des procédures (Diagnostic Stratégique et Décision)
+- **4.14** : Optimiser la communication financière de l’entreprise en utilisant les leviers comptables et fiscaux à sa disposition (Analyse Financière & Diagnostic) ;
+- **4.15** : Utiliser les canaux d’informations financières publics à disposition en maîtrisant le rating et les actualités marché (Analyse Financière & Diagnostic) ;
+- **4.16** : Appliquer les normes comptables et financières internationales (USGAP, IFRS) afin d’accompagner l’entreprise dans sa gestion et le déploiement de sa stratégie à l’international.
+- **4.18** : Coordonner et animer une équipe dans le cadre d’un projet en (Diagnostic Stratégique et Décision) :
+  - Planifiant les échéances
+  - Répartissant, hiérarchisant et priorisant les tâches suivant l’évolution du projet
+  - Réalisant un reporting
+
+## Plan de cours
+
+| Date        | Contenu de la séance                                | Type de cours      | Travail préparatoire |
+| :---------: | --------------------------------------------------- | ------------------ | -------------------- |
+| **Jour #1** | 1. Découvrir la Banque de France… <br> - Stratégie Monétaire <br> - Stabilité Financière <br> - Service à l’économie <br> 2. …et sa cotation <br> - Définition et objectifs de la cotation BdF <br> - Liens avec la stabilité financière <br> - Comment est-elle gérer par les banque privées.   | Cours magistral | Par groupes de 3-4 personnes, préparation d’un oral de 5 minutes sur la cotation Banque de France dans les banques privées. |
+| **Jour #2** | QCM sur les éléments de la 1re journée <br> 1. Introduction sur les comptes consolidés <br> - Que sont les comptes consolidés <br> - Normes françaises/ IFRS <br> 2. Analyse critique du bilan et des performances <br> - Compte de résultat <br> - Solvabilité <br> -  Autonomie financière | Cours magistral | Revoir les fondamentaux de la comptabilité |
+| **Jour #3** | QCM sur les éléments de la 2e journée <br> 1. Le tableau des flux de trésorerie <br> 2. Examen final | Cours magistral | Révisions |
+
+
+## Bibliographie indicative
+
+- [Vernimmen](https://www.vernimmen.net/Vernimmen/Qu_est_ce_que_le_vernimmen.php)
+- [La Lettre Vernimmen.net](https://www.vernimmen.net/Lire/Lettre_Vernimmen.php) (_newsletter mensuelle_)
+
+## Évaluation 
+
+| Types d’évaluation | Description                       | $%$ de la note finale |
+| ------------------ | --------------------------------- | :-------------------: |
+| Contrôle continu   | QCM                               |        30 $%$         |
+| Contrôle continu   | Courte présentation orale         |        20 $%$         |
+| Examen final       | Cas pratique                      |        50 $%$         |
