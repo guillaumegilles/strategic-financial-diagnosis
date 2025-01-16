@@ -1,10 +1,10 @@
 project:
-  type: website
+  type: book
   output-dir: docs
 
-website:
+book:
   # RSS Feed
-  title: Strategic Financial Diagnosis
+  title: Strategic & Financial Diagnosis
   # site-url: https://guillaumegilles.github.io/
   # description: A website at the crossroad of technology, social science, society, economy, and history.
 

@@ -1,13 +1,24 @@
 ---
-title: Strategic Financial Diagnosis
-description: >
-  test de desc
+title: "SFD :: Strategic and Financial Diagnosis"
+description: INSEEC Bordeaux
 image: r2d3.png
 ---
 
-This page contains an outline of the topics, content, and assignments for
-the semester. Note that this schedule will be updated as the semester
-progresses and the timeline of topics and assignments might be updated
-throughout the semester.
+2nd year course in Master of Science in Investment Banking & Financial
+Engineering. The objective of this program is to train executives who
+are specialists in corporate finance and more specifically in equity
+transactions. Students will learn to master the financial, legal and
+fiscal dimensions of financing operations, enabling them to design and
+implement financial packages in line with the development objectives of
+companies.
+
+In this course, student will get an in-depth view of companies' financial
+diagnosis as well as the measurement of value creation are essential
+elements of this training. At the end of this course, students should be
+able to write an analysis report on a company. Different topics will be
+covered during the sessions such as financial analysis (of the activity,
+assets, restatement, ratios), but also analysis of margins, investments
+and financing. Participants will learn how to measure profitability
+(capital employed, leverage) as well as how to measure value creation.
 
 Session Date Topic Prepare Materials Due
